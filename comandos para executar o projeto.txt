@@ -1,0 +1,7 @@
+ dotnet ef database update
+COMANDO PARA CRIAR O BANCO NO SQL SERVER.
+
+Pra ver abre no vs code
+;
+ Pra executar digita dotnet run
+ No terminal do vs code.

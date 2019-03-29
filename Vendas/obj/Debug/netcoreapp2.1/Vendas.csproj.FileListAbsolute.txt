@@ -1,0 +1,14 @@
+C:\Users\paty_\Desktop\Vendas\Vendas\bin\Debug\netcoreapp2.1\Vendas.deps.json
+C:\Users\paty_\Desktop\Vendas\Vendas\bin\Debug\netcoreapp2.1\Vendas.runtimeconfig.json
+C:\Users\paty_\Desktop\Vendas\Vendas\bin\Debug\netcoreapp2.1\Vendas.runtimeconfig.dev.json
+C:\Users\paty_\Desktop\Vendas\Vendas\bin\Debug\netcoreapp2.1\Vendas.dll
+C:\Users\paty_\Desktop\Vendas\Vendas\bin\Debug\netcoreapp2.1\Vendas.pdb
+C:\Users\paty_\Desktop\Vendas\Vendas\obj\Debug\netcoreapp2.1\Vendas.csprojAssemblyReference.cache
+C:\Users\paty_\Desktop\Vendas\Vendas\obj\Debug\netcoreapp2.1\Vendas.csproj.CoreCompileInputs.cache
+C:\Users\paty_\Desktop\Vendas\Vendas\obj\Debug\netcoreapp2.1\Vendas.RazorAssemblyInfo.cache
+C:\Users\paty_\Desktop\Vendas\Vendas\obj\Debug\netcoreapp2.1\Vendas.RazorAssemblyInfo.cs
+C:\Users\paty_\Desktop\Vendas\Vendas\obj\Debug\netcoreapp2.1\Vendas.AssemblyInfoInputs.cache
+C:\Users\paty_\Desktop\Vendas\Vendas\obj\Debug\netcoreapp2.1\Vendas.AssemblyInfo.cs
+C:\Users\paty_\Desktop\Vendas\Vendas\obj\Debug\netcoreapp2.1\Vendas.RazorTargetAssemblyInfo.cache
+C:\Users\paty_\Desktop\Vendas\Vendas\obj\Debug\netcoreapp2.1\Vendas.dll
+C:\Users\paty_\Desktop\Vendas\Vendas\obj\Debug\netcoreapp2.1\Vendas.pdb
